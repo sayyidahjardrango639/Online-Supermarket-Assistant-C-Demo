@@ -1,5 +1,5 @@
 
-## # Supermarkert Management (C Demo) _ Friendly , Staff-Style Console App
+🛒 Supermarkert Management (C Demo)  Friendly , Staff-Style Console App
 
 A small C program that simulates a supermarket purchase flow with a
 **human-to-human** (staff-like) experience.
